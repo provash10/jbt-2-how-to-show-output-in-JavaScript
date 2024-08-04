@@ -1,0 +1,7 @@
+javascript bangla tutorial 2  how to show output in JavaScript
+===============================================================
+
+==> Onekgulo connector er collection k String bola hoi
+==> Jokoni akti learn semicolon dara ses hoi takon take Statement bola hoi.
+==> ctrl h= save
+
